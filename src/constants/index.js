@@ -58,7 +58,7 @@ import {
     {
         title: "Web Designer",
         icon: web,
-    }
+    },
   ];
   
   const technologies = [
@@ -253,7 +253,7 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: github-octocat,
+      image: github,
       source_code_link: "https://github.com/GitDaksh/gitflow",
     },
   ];
