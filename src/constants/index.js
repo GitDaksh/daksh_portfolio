@@ -25,6 +25,7 @@ import {
     threejs,
     visualvibe,
     ex2,
+    github,
   } from "../assets";
   
   export const navLinks = [
