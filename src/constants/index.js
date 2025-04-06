@@ -49,12 +49,16 @@ import {
     },
     {
       title: "Frontend Developer",
-      icon: backend,
+      icon: frontend,
     },
     {
       title: "Backend Developer",
       icon: backend,
     },
+    {
+        title: "Web Designer",
+        icon: web,
+    }
   ];
   
   const technologies = [
@@ -249,7 +253,7 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: tripguide,
+      image: github-octocat,
       source_code_link: "https://github.com/GitDaksh/gitflow",
     },
   ];
