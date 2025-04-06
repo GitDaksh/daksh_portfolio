@@ -55,10 +55,6 @@ import {
       title: "Backend Developer",
       icon: backend,
     },
-    {
-      title: "AI Trainer",
-      icon: creator,
-    },
   ];
   
   const technologies = [
@@ -141,6 +137,28 @@ import {
         "Involvement in multiple Python-related projects and programming web interfaces",
       ],
     },
+    {
+      title: "SDE Intern",
+      company_name: "Zidio Development",
+      icon: reactjs,
+      iconBg: "#E6DEDD",
+      date: "December 2024 - March 2025",
+      points: [
+        "Developed a task management web app using Next.js, leveraging server-side rendering (SSR) and API routes for efficient task handling.",
+        "Designed a responsive UI with Tailwind CSS and implemented state management for real-time task updates.",
+      ],
+    },
+    {
+      title: "Full-Stack Developer",
+      company_name: "Acmegrade",
+      icon: docker,
+      iconBg: "#E6DEDD",
+      date: "October 2023 - Present",
+      points: [
+        "Building multiple web applications using MERN stack.",
+        "Developing and maintaining web applications using React.js and other related technologies.",
+      ],
+    },
   ];
   
   const testimonials = [
@@ -193,9 +211,9 @@ import {
       source_code_link: "https://github.com/GitDaksh/visualvibe",
     },
     {
-      name: "Lexigen",
+      name: "Archive",
       description:
-        "Web application/Editor to Compile and run the program. Supports the execution of multiple languages.",
+        "A secure, scalable University Library Management System built with industry best practices—featuring role-based access, media uploads, caching, DDoS protection, advanced queries, and automated workflows.",
       tags: [
         {
           name: "react",
@@ -211,12 +229,12 @@ import {
         },
       ],
       image: ex2,
-      source_code_link: "https://github.com/GitDaksh/LexiGen",
+      source_code_link: "https://github.com/GitDaksh/archive",
     },
     {
-      name: "Wanderlust",
+      name: "GitFlow",
       description:
-        "A comprehensive travel booking platform that allows users to book flights, hotels, inspired from AirBnb.",
+        "An AI-powered Git commit summarizer using Google Gemini AI, designed to generate clear, concise, and context-aware commit messages. Analyzes git diffs, highlights key changes, and provides meaningful summaries for better version control.",
       tags: [
         {
           name: "nextjs",
@@ -232,7 +250,7 @@ import {
         },
       ],
       image: tripguide,
-      source_code_link: "https://github.com/GitDaksh/Wanderlust",
+      source_code_link: "https://github.com/GitDaksh/gitflow",
     },
   ];
   
