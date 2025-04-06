@@ -192,7 +192,7 @@ import {
     {
       name: "VisualVibe",
       description:
-        "Web-based platform that allows users to get in touch using the Video Conferencing feature inspired from Zoom.",
+        "Next.js and TypeScript-based video conferencing app using WebRTC for real-time calls, Clerk for authentication, and Socket.io for signaling, ensuring a seamless and secure experience.",
       tags: [
         {
           name: "react",
